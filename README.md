@@ -1,8 +1,4 @@
----
-### Emotion Detection from Text
 
-Copy everything below into  
-`emotion-detection/README.md`
 
 ```markdown
 # Emotion Detection from Text
